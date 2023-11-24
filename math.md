@@ -33,3 +33,7 @@ Math 170C - Introduction to Numerical Analysis: Ordinary Differential Equations
 Math 180A - Introduction to Probability
 
 Math 184 - Enumerative Combinatorics
+
+Math 199 - Independent Study for Undergraduates: Tensor Decompositions
+
+Math 199 - Independent Study for Undergraduates: Random Graphs
