@@ -1,2 +1,2 @@
-# personal-page
-Gallant's Personal Page
+# Home
+This is a personal page :l
