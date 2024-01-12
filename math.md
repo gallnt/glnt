@@ -6,7 +6,7 @@ Math 180B - Introduction to Stochastic Processes I
 
 Math 181A - Introduction to Mathematical Statistics I
 
-Math 182 - Hidden Data in Random Matrices
+Math 182/DSC 155 - Hidden Data in Random Matrices
 
 __Below is a list of math courses that I have taken in UCSD:__
 
