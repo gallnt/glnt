@@ -2,7 +2,7 @@ __Here are the data science courses I'm taking this quarter (Winter 2024):__
 
 DSC 80 - The Practice and Application of Data Science
 
-DSC 96 - Workshop in Data Science
+DSC 155/Math 182 - Hidden Data in Random Matrices
 
 __Below is a list of math courses that I have taken in UCSD:__
 
