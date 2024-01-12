@@ -4,7 +4,7 @@ DSC 80 - The Practice and Application of Data Science
 
 DSC 155/Math 182 - Hidden Data in Random Matrices
 
-__Below is a list of math courses that I have taken in UCSD:__
+__Below is a list of data science courses that I have taken in UCSD:__
 
 DSC 10 - Principles of Data Science
 
