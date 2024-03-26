@@ -1,12 +1,10 @@
-__Here are the courses I am taking this quarter (Winter 2024):__
+__Here are the courses I am taking this quarter (Spring 2024):__
 
-Math 171A - Introduction to Numerical Optimization: Linear Programming
+Math 171B - Introduction to Numerical Optimization: Nonlinear Programming
 
-Math 180B - Introduction to Stochastic Processes I
+Math 180C - Introduction to Stochastic Processes II
 
-Math 181A - Introduction to Mathematical Statistics I
-
-Math 182/DSC 155 - Hidden Data in Random Matrices
+Math 181B - Introduction to Mathematical Statistics II
 
 __Below is a list of math courses that I have taken in UCSD:__
 
@@ -30,10 +28,20 @@ Math 170B - Introduction to Numerical Analysis: Approximations and Nonlinear Equ
 
 Math 170C - Introduction to Numerical Analysis: Ordinary Differential Equations
 
+Math 171A - Introduction to Numerical Optimization: Linear Programming
+
 Math 180A - Introduction to Probability
+
+Math 180B - Introduction to Stochastic Processes I
+
+Math 181A - Introduction to Mathematical Statistics I
+
+Math 182/DSC 155 - Hidden Data in Random Matrices
 
 Math 184 - Enumerative Combinatorics
 
 Math 199 - Independent Study for Undergraduates: Tensor Decompositions
 
 Math 199 - Independent Study for Undergraduates: Random Graphs
+
+Math 199 - Independent Study for Undergraduates: Random Graphs II
